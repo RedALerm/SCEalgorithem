@@ -34,7 +34,7 @@ Other comparison alg:
 ########################  Applications  #####################################
 
 ## Test Dataset
-- The dataset for applications can be found athttps://vision.cs.uiuc.edu/attributes/
+- The dataset for applications can be found at https://vision.cs.uiuc.edu/attributes/
 
 
 ## Usage
